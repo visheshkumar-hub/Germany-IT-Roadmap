@@ -1,135 +1,182 @@
 Germany IT Mission
-# Hi 👋, I'm Vishesh Kumar
+Hi 👋, I'm Vishesh Kumar
 
-### M.Tech (Computer Networks) | Networking & Linux Learner | Future IT Support Engineer 🇩🇪
+M.Tech (Computer Networks) | Networking & Linux Learner | Future IT Support Engineer 🇩🇪
 
-I am a technology professional with a background in Information Technology
-and Computer Networks.
+I am a technology professional with a background in Information Technologyand Computer Networks.
 
-Currently, I am building practical IT skills through hands-on labs,
-projects, and continuous learning.
+Currently, I am building practical IT skills through hands-on labs,projects, and continuous learning.
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+🎓 B.Tech in Information Technology
 
-- 🎓 B.Tech in Information Technology
-- 🎓 M.Tech in Computer Networks
-- 🌐 Interested in Networking and IT Infrastructure
-- 🐧 Learning Linux
-- 🔧 Building practical skills through Cisco Packet Tracer
-- 📚 Learning Git & GitHub
-- 🐍 Learning Python for automation
-- ☁️ Exploring Cloud & AWS fundamentals
-- 🇩🇪 Long-term goal: IT career in Germany
+🎓 M.Tech in Computer Networks
 
----
+🌐 Interested in Networking and IT Infrastructure
 
-## 🛠️ Skills
+🐧 Learning Linux
 
-### Networking
-- TCP/IP
-- IP Addressing
-- Subnetting
-- Cisco Packet Tracer
-- Cisco Router & Switch Configuration
-- VLANs
-- Trunking
-- Inter-VLAN Routing
-- Router-on-a-Stick
-- Basic Network Troubleshooting
-- Ping & Connectivity Testing
+🔧 Building practical skills through Cisco Packet Tracer
 
-### Linux
-- Linux Fundamentals
-- Ubuntu
-- Command Line
-- Basic System Administration
+📚 Learning Git & GitHub
 
-### Tools
-- Cisco Packet Tracer
-- Git
-- GitHub
-- Ubuntu
+🐍 Learning Python for automation
 
-### Programming & Automation
-- Python Fundamentals
-- Basic Networking Automation
+☁️ Exploring Cloud & AWS fundamentals
 
-### Cloud
-- AWS Fundamentals
-- Cloud Networking Basics
+🇩🇪 Long-term goal: IT career in Germany
 
----
+🛠️ Skills
 
-## 🏆 Networking Projects
+Networking
 
-### Mini Project 1 – Basic Network
-- Router + Switch + PCs
-- IP Address Configuration
-- Basic Connectivity Testing
+TCP/IP
 
-### Mini Project 2 – Company Department Network
-- HR & IT Departments
-- VLAN 10 – HR
-- VLAN 20 – IT
-- Router & Switch Configuration
-- Inter-network Connectivity Testing
+IP Addressing
 
-### Mini Project 3 – Office IT Infrastructure
-- Cisco Router 2911
-- 2 × Cisco 2960 Switches
-- 6 PCs
-- Server
-- VLAN 10 – HR
-- VLAN 20 – IT
-- VLAN 30 – Accounts
-- Router-on-a-Stick
-- Trunking
-- Inter-VLAN Routing
-- Network Troubleshooting
+Subnetting
 
----
+Cisco Packet Tracer
 
-## 📚 What I'm Learning
+Cisco Router & Switch Configuration
+
+VLANs
+
+Trunking
+
+Inter-VLAN Routing
+
+Router-on-a-Stick
+
+Basic Network Troubleshooting
+
+Ping & Connectivity Testing
+
+Linux
+
+Linux Fundamentals
+
+Ubuntu
+
+Command Line
+
+Basic System Administration
+
+Tools
+
+Cisco Packet Tracer
+
+Git
+
+GitHub
+
+Ubuntu
+
+Programming & Automation
+
+Python Fundamentals
+
+Basic Networking Automation
+
+Cloud
+
+AWS Fundamentals
+
+Cloud Networking Basics
+
+🏆 Networking Projects
+
+Mini Project 1 – Basic Network
+
+Router + Switch + PCs
+
+IP Address Configuration
+
+Basic Connectivity Testing
+
+Mini Project 2 – Company Department Network
+
+HR & IT Departments
+
+VLAN 10 – HR
+
+VLAN 20 – IT
+
+Router & Switch Configuration
+
+Inter-network Connectivity Testing
+
+Mini Project 3 – Office IT Infrastructure
+
+Cisco Router 2911
+
+2 × Cisco 2960 Switches
+
+6 PCs
+
+Server
+
+VLAN 10 – HR
+
+VLAN 20 – IT
+
+VLAN 30 – Accounts
+
+Router-on-a-Stick
+
+Trunking
+
+Inter-VLAN Routing
+
+Network Troubleshooting
+
+📚 What I'm Learning
 
 I am following a structured long-term IT learning roadmap covering:
 
-- 🌐 Networking
-- 🐧 Linux
-- 🔧 IT Support
-- 🔀 Git & GitHub
-- 🐍 Python
-- ☁️ Cloud / AWS
-- 🔐 Network Security
-- 🇩🇪 German Language
+🌐 Networking
 
-My focus is on **practical skills, labs, projects and real-world troubleshooting**.
+🐧 Linux
 
----
+🔧 IT Support
 
-## 🇩🇪 Germany IT Goal
+🔀 Git & GitHub
 
-My long-term goal is to build a strong IT skill set and move toward an
-IT Support / Network Support career in Germany.
+🐍 Python
+
+☁️ Cloud / AWS
+
+🔐 Network Security
+
+🇩🇪 German Language
+
+My focus is on practical skills, labs, projects and real-world troubleshooting.
+
+🇩🇪 Germany IT Goal
+
+My long-term goal is to build a strong IT skill set and move toward anIT Support / Network Support career in Germany.
 
 I am working toward this goal through:
 
-- Practical networking labs
-- Linux administration
-- GitHub projects
-- Python automation
-- Cloud fundamentals
-- Professional certifications where useful
-- German language learning
+Practical networking labs
 
-> **Learn → Practice → Build → Document → Improve**
+Linux administration
 
----
+GitHub projects
 
-## 📈 Current Focus
+Python automation
 
-```text
+Cloud fundamentals
+
+Professional certifications where useful
+
+German language learning
+
+Learn → Practice → Build → Document → Improve
+
+📈 Current Focus
+
 Networking       ██████████  Completed Foundation
 Linux            ██████░░░░  Learning
 Git & GitHub     ██████░░░░  Learning
