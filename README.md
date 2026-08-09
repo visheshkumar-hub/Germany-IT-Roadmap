@@ -137,22 +137,31 @@ Git & GitHub     ██████░░░░  Learning
 Python           ████░░░░░░  Learning
 Cloud / AWS      ███░░░░░░░  Exploring
 German           ███░░░░░░░  Learning
-My Approach
+```
+
+## 🎯 My Approach
 
 I believe in learning by doing.
-Every topic is followed by practical work whenever possible:
-Learn → Lab → Troubleshoot → Build Project → Document on GitHub
 
-📌 Currently Working On
-Networking Labs
-Cisco Packet Tracer Projects
-Linux
-Git & GitHub
-IT Support Skills
-Python Fundamentals
-Cloud Fundamentals
-German Language
+Every topic is followed by practical work whenever possible:
+
+**Learn → Lab → Troubleshoot → Build Project → Document on GitHub**
+
+---
+
+## 📌 Currently Working On
+
+- Networking Labs
+- Cisco Packet Tracer Projects
+- Linux
+- Git & GitHub
+- IT Support Skills
+- Python Fundamentals
+- Cloud Fundamentals
+- German Language
+
+---
 
 ⭐ Thanks for visiting my profile!
 
-Future IT Support Engineer | Germany 🇩🇪
+**Future IT Support Engineer | Germany 🇩🇪**
